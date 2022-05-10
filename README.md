@@ -1,2 +1,2 @@
 # CODEWARS
-Let
+Let's solve some coding problems.
